@@ -119,6 +119,6 @@ Add time-series sales forecasting
 Automate report generation and alerts
 
 👨‍💻 Author
-Mo Saleemm
+Mo Saleem
 📧 mosaleem0213@gmail.com
 🔗 www.linkedin.com/in/sal013
